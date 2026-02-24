@@ -1,4 +1,5 @@
 -- ts file was generated at discord.gg/25ms
+--  loadstring(game:HttpGet('https://raw.githubusercontent.com/UKKung/crispy-parakeet/refs/heads/main/bfcraked.lua'))()
 
 local u1 = loadstring(game:HttpGet('https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua'))()
 local v2 = u1:CreateWindow({
