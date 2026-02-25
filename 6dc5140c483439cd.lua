@@ -1,5 +1,5 @@
 -- ts file was generated at discord.gg/25ms
-
+-- --  loadstring(game:HttpGet('https://raw.githubusercontent.com/UKKung/crispy-parakeet/refs/heads/main/6dc5140c483439cd.lua'))()
 local v1 = loadstring(game:HttpGet('https://raw.githubusercontent.com/vinhuchi/rblx/main/FixedFluent.lua'))()
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua'))()
