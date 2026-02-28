@@ -46,6 +46,7 @@ end
 
 local script_id = game_config.id
 local is_key_less = game_config.keyless
+is_key_less = true  -- force skip key checker
 
 for _, exec in ipairs({"Xeno", "Solara"}) do
 	if string.find(executor_name, exec) then
